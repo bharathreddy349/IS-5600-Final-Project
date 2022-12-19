@@ -1,12 +1,9 @@
-
-Install express, mongoose and cors by typing the following command in the terminal:
-##	`npm i express mongoose cors`
-
-Install nodemon globally by typing the following command in the terminal:
-##	`npm i -g nodemon`
-
-In the project directory, you can run:
-### `nodemon index`
+To Run the Project in local machine please download the Book_Registry.zip folder
+	Pre-requistie softwares required to installed in our system to create 'Book Registry' application.
+o	Visual Studio Code
+o	Node.js
+o	MongoDB
+	We are creating 'Book Registry'  web application using node.js, express, MongoDB, and React JS.
 
 	Open the “Book_Registry_Backend” folder using Visual studio code.
 	Install express, mongoose and cors by typing the following command in the terminal:
